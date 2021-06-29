@@ -1,4 +1,3 @@
-# some more ls aliases
 alias get='sudo pacman -S'
 alias remove='sudo pacman -R'
 alias cls='clear'
