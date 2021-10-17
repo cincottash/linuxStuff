@@ -3,9 +3,10 @@ alias remove='sudo pacman -R'
 alias cls='clear'
 alias yeet='clear'
 alias pacsearch='sudo pacman -Ss'
-alias pacupdate='sudo pacman -Syu'
+alias update='sudo pacman -Syu'
 alias banner='neofetch'
-alias oc='flatpak run com.leinardi.gwe'
+alias oc='gwe'
+alias bim='vim'
 
 # enable color support of ls and also add handy aliases
 if [ -x /usr/bin/dircolors ]; then
